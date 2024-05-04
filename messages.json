@@ -1,12 +1,12 @@
 [
   {
-    "id": 3,
-    "bundleId": "mj.PillMemo",
+    "id": 2,
+    "bundleId": "mj.AppAlertExample",
     "title": "App Alert",
     "text": "Warning: There is a bug in this version of the application and your version of iOS and I am working on it...",
     "confirmLabel": "OK",
-    "osVersions": ["16.4"],
-    "appVersions": ["1.0.0"],
+    "osVersions": ["17.4"],
+    "appVersions": ["1.0"],
     "link": {
       "title": "More information",
       "url": "https://www.createchsol.com"
